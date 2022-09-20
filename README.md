@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=dark&hide_border=true" />
+  <a href="#">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Mjlozano&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mjlozano&theme=dark&hide_border=true" />
   </a>
 </p>
 
@@ -24,4 +24,3 @@
 <br/>
 
 [![Jesús Lozano](https://activity-graph.herokuapp.com/graph?username=Mjlozano&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)]
-(https://abhigyantrips.dev)
